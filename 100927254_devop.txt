@@ -1,2 +1,5 @@
 Teacher’s Name Pritesh Patel
 Email Pritesh.patel2@georgebrown.ca
+Course Code COMP 2156
+Academic Year 2022-2023
+Term Winter 2023
