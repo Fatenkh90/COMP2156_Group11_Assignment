@@ -4,3 +4,6 @@ and easier maintenance of existing deployments.
 
 DevOps is not a technology per se, 
 but it covers everything from the organisation to culture, processes and tooling.
+
+DevOps adoption is growing rapidly. IDC forecasts the worldwide DevOps software market to reach $6.6 billion in 2022, 
+up from $2.9 billion in 2017.
