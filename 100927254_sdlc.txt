@@ -1,3 +1,6 @@
 DevOps—the amalgamation of development (Dev) and operations (Ops) teams—is 
 an organizational approach that enables faster development of applications 
 and easier maintenance of existing deployments.
+
+DevOps is not a technology per se, 
+but it covers everything from the organisation to culture, processes and tooling.
