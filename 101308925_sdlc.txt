@@ -1,1 +1,4 @@
 DevOps is important because it's a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments.
+By enabling organizations to create stronger bonds between Dev, Ops and other stakeholders in the company, DevOps promotes shorter, more controllable iterations through the
+ adoption of best practices, automation and new tools. DevOps is not a technology per se, but it covers everything from the organisation to culture, processes and tooling.
+ Initial steps usually include Continuous integration and continuous delivery (CI/CD), real-time monitoring, incident response systems and collaboration platforms.
